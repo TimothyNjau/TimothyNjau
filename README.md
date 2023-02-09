@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TimothyNjau
 - 👀 I’m interested in microcontroller and web programming
-- 🌱 I’m currently learning Javascript.
 - My skills encompass MATLAB, C++, Python and JS
 - My favourite line "a jack of all trades is a master of none but oftentimes better than a master of one."
 
