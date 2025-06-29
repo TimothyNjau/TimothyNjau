@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @TimothyNjau
-- 👀 I’m interested in microcontroller and web programming
-- My skills encompass MATLAB, C++, Python and JS
-- My favourite line "a jack of all trades is a master of none but oftentimes better than a master of one."
+# 👋 Hi, I'm Timothy Njau
 
+🎓 Electronic & Computer Engineering Graduate  
+💻 Frontend Developer (React, JS, HTML/CSS)  
+🌍 Passionate about impactful tech & digital transformation  
 
-<!---
-TimothyNjau/TimothyNjau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a software developer on a mission to build tools that improve how people live, learn, and work. I’ve built interactive web-based games, creative Arduino systems, and I'm currently exploring React and Next.js.
+
+I believe in the power of tech to create change, from wildlife conservation to community empowerment. 
+
+## 🔧 Tech Stack
+- Languages: JavaScript, HTML, CSS
+- Frameworks: React (learning), Next.js (learning), Node.js (beginner)
+- Tools: Git, VS Code, Figma (basics), Arduino
+
+## 🌱 Currently Learning
+- Advanced React practices
+- Next.js
+- UI/UX principles
+
+## 🎯 Goals
+- Land a junior frontend dev role (open to remote/hybrid)
+- Build a startup in 5 years
+- Become a Technical Lead in 3 years
+
+## 📫 Connect with Me
+- [LinkedIn](www.linkedin.com/in/timothyngige) – Let’s network!
+- [Email](timothynjau28@gmail.com)
+
+> 🛠 "If you can imagine it, let's build it."
+
